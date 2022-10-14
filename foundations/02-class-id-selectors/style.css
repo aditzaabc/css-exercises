@@ -1,0 +1,19 @@
+.oddnr{
+    background-color: rgb(243, 174, 185);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.oddnr-cool{
+    font-size: 24px;
+}
+
+#nr2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#nr4 {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
