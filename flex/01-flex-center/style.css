@@ -16,6 +16,6 @@
 
 .container {
   display: flex;
-  align-items: auto;
-  justify-content: auto;
+  align-items: center;
+  justify-content: center;
 }
